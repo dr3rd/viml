@@ -1,0 +1,4 @@
+(library
+ (name velo)
+ (synopsis "velo")
+ (libraries lwt notty notty.unix notty.lwt))
