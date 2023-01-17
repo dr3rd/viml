@@ -1,0 +1,4 @@
+(executable
+ (name viml)
+ (public_name viml)
+ (libraries cmdliner velo))
